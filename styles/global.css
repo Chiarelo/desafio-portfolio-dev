@@ -37,5 +37,12 @@
 }
 
 body {
-    
+    color: var(--gray-600);
+    font: var(--text-sm);
+    background-color: var(--gray-300);
+}
+
+.container {
+    max-width: 1366px;
+    margin-inline: auto;
 }
