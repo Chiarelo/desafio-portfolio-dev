@@ -70,7 +70,7 @@
     }
   }
 
-  #cards {
+  #project-gallery {
     grid-template-columns: repeat(3, 330px);
     gap: 24px;
 
