@@ -53,7 +53,7 @@
         font: var(--text-md);
         margin-bottom: 94px;
         
-        a {
+        .tag {
             align-items: center;
             padding: 8px 16px;
             background-color: var(--gray-300);
@@ -62,5 +62,5 @@
         }
     }
 
- 
+
 }
